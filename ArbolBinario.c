@@ -1,11 +1,12 @@
+#include <stdio.h>
 
-extern free
-extern malloc
+//extern free
+//extern malloc
 
 extern struct Nodo* crearArbolB(struct Nodo* izq, struct Nodo* der, int val);
 
-call malloc
-call free
+//call malloc
+//call free
 
 ab* crearArbolB(int valor){ //return pos memoria de un arbol
 	
